@@ -313,10 +313,10 @@
         <h2 style="font-size: 1.8em; margin-bottom: 10px; color: #ff5f1f;">Join Our Community!</h2>
         <p style="font-size: 1em; margin-bottom: 15px; line-height: 1.4;">Connect with us on Discord and Telegram to know the latest news and updates.</p>
         <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-          <a href="https://discord.gg/xRkxTVuWCG" target="_blank" style="text-decoration: none; background: #ff5f1f; color: #fff; padding: 10px 15px; border-radius: 5px; font-size: 0.9em; font-weight: bold; display: flex; align-items: center; box-shadow: 0 4px 10px rgba(255, 95, 31, 0.3);">
+          <a href="https://discord.gg/wC5FEbg46B" target="_blank" style="text-decoration: none; background: #ff5f1f; color: #fff; padding: 10px 15px; border-radius: 5px; font-size: 0.9em; font-weight: bold; display: flex; align-items: center; box-shadow: 0 4px 10px rgba(255, 95, 31, 0.3);">
             <i class="fab fa-discord" style="margin-right: 5px;"></i> Discord
           </a>
-          <a href="https://t.me/gfklightcloud" target="_blank" style="text-decoration: none; background: #ff5f1f; color: #fff; padding: 10px 15px; border-radius: 5px; font-size: 0.9em; font-weight: bold; display: flex; align-items: center; box-shadow: 0 4px 10px rgba(255, 95, 31, 0.3);">
+          <a href="https://t.me/+Z4WxxrI57TZmY2E0" target="_blank" style="text-decoration: none; background: #ff5f1f; color: #fff; padding: 10px 15px; border-radius: 5px; font-size: 0.9em; font-weight: bold; display: flex; align-items: center; box-shadow: 0 4px 10px rgba(255, 95, 31, 0.3);">
             <i class="fab fa-telegram" style="margin-right: 5px;"></i> Telegram
           </a>
         </div>
