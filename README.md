@@ -36,7 +36,7 @@
     <style>
         
         body {
-        background: Dark grey
+        background-color: #1e1e1e
         }
     
         html, body {
