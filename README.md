@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
@@ -26,8 +25,6 @@
     </head>
     <body class="no-animation">
         <div id="toast-container"></div>
-        <!-- гамбургер -->
-        </button>
     
         <!-- закрыть гамбургер -->
         <button class="close-menu" onclick="toggleMenu()" style="display: none;">
