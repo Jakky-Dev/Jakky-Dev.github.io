@@ -34,6 +34,10 @@
         <main class="main-content">
             
     <style>
+        
+        body {
+        background: Dark grey
+        }
     
         html, body {
             height: 100%; /* Ensure the body takes up the full viewport height */
